@@ -38,7 +38,7 @@ public static void twisters()
     }
 }
 
-public static int phonekeypad (String str)
+public static int phoneKeypad (String str)
 	{
 	    String STR=str.toUpperCase();
 	    
